@@ -11,7 +11,7 @@ function procurar(){
     .then((data) => {
 
     let bandeira = document.getElementById('bandeira');
-    let nome = document.getElementById('nome');
+    let nome_pais = document.getElementById('nome');
     let capital = document.getElementById('capital');
     let pop = document.getElementById('pop');
     let cont = document.getElementById('cont');
